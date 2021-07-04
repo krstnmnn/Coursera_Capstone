@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Final Assignment of the IBM Data Science Professional Certificate
+Final Assignments of the IBM Data Science Professional Certificate
